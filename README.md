@@ -8,11 +8,7 @@ A MooTools Plugin provides a countdown of text in an input field. Inspired by th
 How to use
 ----------
 
-Include the latest version MooTools Framework, then .js into the page:
-
-     
-##Example
-
+Include the latest version MooTools Framework, then .js into the page:     
 
     #JS
     <script src="https://ajax.googleapis.com/ajax/libs/mootools/1.5.2/mootools.min.js"></script>
