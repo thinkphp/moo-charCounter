@@ -1,0 +1,7 @@
+name: moo-charCounter
+author: thinkphp
+current: v1.0
+category: Utilities
+tags: [counter, textarea, textfield]
+docs: https://github.com/thinkphp/moo-charCounter/blob/master/docs/moo-charCounter.md
+demo: http://thinkphp.github.io/moo-charCounter/
