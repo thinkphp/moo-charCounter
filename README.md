@@ -3,7 +3,7 @@ charCounter Plugin MooTools
 
 A MooTools Plugin provides a countdown of text in an input field. Inspired by the way Twitter counts down the ramaining characters in a tweet.
 
-![Screenshot]()
+![Screenshot](http://thinkphp.ro/images/charCounter.PNG)
 
 How to use
 ----------
