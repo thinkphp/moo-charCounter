@@ -1,6 +1,6 @@
 /*
 ---
-description: 
+description: A MooTools Plugin that counts down the characters in a textfield.
 
 authors:
 - Adrian Statescu (http://thinkphp.ro)
